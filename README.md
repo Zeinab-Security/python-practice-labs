@@ -6,7 +6,7 @@ A collection of Python practice labs completed as part of my self-directed learn
 ## Labs
 | Lab | Description |
 |---|---|
-| [Cinema Ticket System](./cinema-ticket-calculator.py/cinema-ticket.py) | A ticket pricing script using conditionals to apply age restrictions, member discounts, and seat/show-time surcharges |
+| [Cinema Ticket System](./cinema-ticket-calculator.py/cinema-ticket.py](https://zeinab-security.github.io/python-practice-labs/cinema-ticket-calculator.py/) | A ticket pricing script using conditionals to apply age restrictions, member discounts, and seat/show-time surcharges |
 
 > This table will be updated as I complete more labs.
 
