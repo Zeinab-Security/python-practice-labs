@@ -5,7 +5,8 @@ A collection of Python practice labs completed as part of my self-directed learn
 
 ## Labs
 | Lab | Description |
-|---|---|| Cinema Ticket System | A ticket pricing script using conditionals to apply age restrictions, member discounts, and seat/show-time surcharges |
+|---|---|
+| Cinema Ticket System | A ticket pricing script using conditionals to apply age restrictions, member discounts, and seat/show-time surcharges |
 
 > This table will be updated as I complete more labs.
 
