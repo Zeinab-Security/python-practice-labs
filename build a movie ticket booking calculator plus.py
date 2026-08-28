@@ -1,13 +1,1 @@
-base_price = 15
 
-print("=== Welcome to Cinema Ticket System ===")
-
-age = int(input("Enter your age: "))
-seat_type = input("Enter seat type (Premium / Gold / Regular): ")
-show_time = input("Enter show time (Evening / Matinee): ")
-
-is_member_input = input("Are you a member? (yes / no): ")
-is_member = is_member_input.lower() == 'yes'
-
-is_weekend_input = input("Is it a weekend show? (yes / no): ")
-is_weekend = is_weekend_input.lower() == 'yes'
